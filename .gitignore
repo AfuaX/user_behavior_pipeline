@@ -1,4 +1,19 @@
-venv/
+# Python cache
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Output directories (generated at runtime)
 data/
 output/
+
+# OS specific files
+.DS_Store
+Thumbs.db
