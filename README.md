@@ -36,7 +36,7 @@ user_behavior_pipeline/
 1. **Clone or download the project**:
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/AfuaX/user_behavior_pipeline>
 cd user_behavior_pipeline
 ```
 
