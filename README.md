@@ -90,7 +90,6 @@ The script will:
 ![User Behavior Histogram](docs/user_behavior_hist.png)
 
 
-```
 
 ---
 
@@ -107,4 +106,3 @@ The script will:
 - matplotlib  
 - seaborn  
 
----
