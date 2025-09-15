@@ -83,14 +83,12 @@ The script will:
 
 ## Outputs
 
-### Classification Report  
-[📄 View classification report](output/classification_report.txt)
+[📄 View classification report](docs/classification_report.txt)
 
-### Confusion Matrix  
-![Confusion Matrix](output/confusion_matrix.png)
+![Confusion Matrix](docs/confusion_matrix.png)
 
-### Feature Histogram  
-![User Behavior Histogram](output/user_behavior_hist.png)
+![User Behavior Histogram](docs/user_behavior_hist.png)
+
 
 ```
 
