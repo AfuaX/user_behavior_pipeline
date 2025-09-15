@@ -91,6 +91,7 @@ The script will:
 
 ### Feature Histogram  
 ![User Behavior Histogram](output/user_behavior_hist.png)
+
 ```
 
 ---
@@ -107,3 +108,5 @@ The script will:
 - scikit-learn  
 - matplotlib  
 - seaborn  
+
+---
